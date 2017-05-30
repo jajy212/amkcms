@@ -33,5 +33,35 @@ public class ProductController {
 		return mav;
 	}
 	
+	@RequestMapping(value="service")
+	public ModelAndView service(){
+		ModelAndView mav = new ModelAndView("mypage/service");
+		return mav;
+	}
+	
+	@RequestMapping(value="faq")
+	public ModelAndView faq(){
+		ModelAndView mav = new ModelAndView("mypage/faq");
+		return mav;
+	}
+	
+	@RequestMapping(value="news")
+	public ModelAndView news(){
+		ModelAndView mav = new ModelAndView("mypage/news");
+		return mav;
+	}
+	
+	@RequestMapping(value="download")
+	public ModelAndView download(){
+		ModelAndView mav = new ModelAndView("mypage/download");
+		return mav;
+	}
+	
+	@RequestMapping(value="about")
+	public ModelAndView about(){
+		ModelAndView mav = new ModelAndView("mypage/about");
+		return mav;
+	}
+	
 	
 }

@@ -16,30 +16,30 @@
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">产品中心 <b class="caret"></b></a>
                         <ul class="dropdown-menu">
                             <li>
-                                <a href="pro/products.action?param=stx">超级净化手套箱</a>
+                                <a href="products.dhtml?param=stx">超级净化手套箱</a>
                             </li>
                             <li>
-                                <a href="products.action?param=stx">溶剂净化系统</a>
+                                <a href="products.dhtml?param=rj">溶剂净化系统</a>
                             </li>
                             <li>
-                                <a href="products.action?param=stx">气体净化系统</a>
+                                <a href="products.dhtml?param=kq">气体净化系统</a>
                             </li>
 							 <li>
-                                <a href="products.action?param=stx">高纯供气系统</a>
+                                <a href="products.dhtml?param=gq">高纯供气系统</a>
                             </li>
                             <li>
-                                <a href="products.action?param=stx">真空镀膜系统</a>
+                                <a href="products.dhtml?param=dm">真空镀膜系统</a>
                             </li>
                             <li>
-                                <a href="products.action?param=stx">高温炉</a>
+                                <a href="products.dhtml?param=gwl">高温炉</a>
                             </li>
                         </ul>
 					</li>
-						<li><a href="###"><span>解决方案<span class="border"></span></span></a></li>
-						<li><a href="###"><span>技术支持<span class="border"></span></span></a></li>
-						<li><a href="###"><span>资料下载<span class="border"></span></span></a></li>
-						<li><a href="###"><span>新闻动态<span class="border"></span></span></a></li>	
-						<li><a href="###"><span>关于我们<span class="border"></span></span></a></li>
+						<li><a href="service.dhtml"><span>解决方案<span class="border"></span></span></a></li>
+						<li><a href="faq.dhtml"><span>技术支持<span class="border"></span></span></a></li>
+						<li><a href="download.dhtml"><span>资料下载<span class="border"></span></span></a></li>
+						<li><a href="news.dhtml"><span>新闻动态<span class="border"></span></span></a></li>	
+						<li><a href="about.dhtml"><span>关于我们<span class="border"></span></span></a></li>
 					</ul>
 				</div>
 			</div>

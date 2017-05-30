@@ -7,30 +7,14 @@
 			<div class="row">
 				<div class="col-md-3 col-sm-3">
 					<div class="fh5co-footer-widget">
-						<h2 class="fh5co-footer-logo">公司logo</h2>
+						<h2 class="fh5co-footer-logo">公司logo待定</h2>
 						<p></p>
-					</div>
-					
-				</div>
-
-				<div class="col-md-2 col-sm-6">
-					<div class="fh5co-footer-widget top-level">
-						<h4 class="fh5co-footer-lead ">导航</h4>
-						<ul>
-							<li><a href="#">首页</a></li>
-							<li><a href="#">产品中心</a></li>
-							<li><a href="#">解决方案</a></li>
-							<li><a href="#">技术支持</a></li>
-							<li><a href="#">资料下载</a></li>
-							<li><a href="#">新闻动态</a></li>
-							<li><a href="#">关于我们</a></li>
-						</ul>
 					</div>
 				</div>
 				
 				<div class="visible-sm-block clearfix"></div>
 
-				<div class="col-md-4 col-sm-6">
+				<div class="col-md-6 col-sm-6">
 					<div class="fh5co-footer-widget top-level">
 						<h4 class="fh5co-footer-lead">艾明坷科技（北京）有限公司</h4>
 						<ul class="fh5co-list-check">
@@ -43,18 +27,22 @@
 						</ul>
 					</div>
 				</div>
-				<div class="col-md-2 col-sm-6">
-					<div class="fh5co-footer-widget top-level">
-						<h4 class="fh5co-footer-lead ">产品</h4>
-						<ul class="fh5co-list-check">
-							<li><a href="#">手套箱系列</a></li>
-							<li><a href="#">空气净化系统</a></li>
-							<li><a href="#">空气净化系统</a></li>
-							<li><a href="#">空气净化系统</a></li>
-							<li><a href="#">空气净化系统</a></li>
-						</ul>
-					</div>
+				
+				<div class="col-md-3 col-sm-6">
+				<div class="fh5co-footer-widget top-level">
+					<h4 class="fh5co-footer-lead ">导航</h4>
+					<ul>
+						<li><a href="index.dhtml">首页</a></li>
+						<li><a href="products.dhtml">产品中心</a></li>
+						<li><a href="service.dhtml">解决方案</a></li>
+						<li><a href="faq.dhtml">技术支持</a></li>
+						<li><a href="download.dhtml">资料下载</a></li>
+						<li><a href="news.dhtml">新闻动态</a></li>
+						<li><a href="about.dhtml">关于我们</a></li>
+					</ul>
 				</div>
+				</div>
+				
 			</div>
 
 			<div class="row fh5co-row-padded fh5co-copyright">
